@@ -1,0 +1,8 @@
+READ ME 
+
+The home file functions the same as the index file
+
+Website created 8/2014 by Erik Mudrak during internship for Paris FD
+
+For help call Tech Resources, or text me @ 502-510-6639
+
